@@ -10,9 +10,9 @@ logo_image:
   image_path: /logo.png # path to your logo image
 
 menu:
-  博客: /archives/
-  标签: /tag/
+  首页: /
   关于: /about/
+  标签: /tag/
   Email: mailto:roobtyan@qq.com
   Github: https://github.com/roobtyan
   # Gallery: /categories/gallery/
